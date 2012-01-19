@@ -12,3 +12,4 @@ tmp/
 modules/
 precompiled/
 .DS_Store
+war/
